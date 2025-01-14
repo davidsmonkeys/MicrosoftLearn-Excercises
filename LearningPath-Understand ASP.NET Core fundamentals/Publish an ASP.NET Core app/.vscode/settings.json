@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9ee4f83c-a9a6-41a0-822d-13e18dc6c648/resourceGroups/dertinfo-test-rg/providers/Microsoft.Web/sites/dh-webapp-frameworkdependant-lab-uks",
+    "appService.deploySubpath": "MyWebApp"
+}

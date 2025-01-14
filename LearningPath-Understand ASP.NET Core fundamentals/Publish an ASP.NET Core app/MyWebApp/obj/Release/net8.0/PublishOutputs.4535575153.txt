@@ -1,0 +1,7 @@
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\MyWebApp.exe
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\appsettings.Development.json
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\appsettings.json
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\MyWebApp.dll
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\MyWebApp.deps.json
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\MyWebApp.runtimeconfig.json
+C:\Projects-Learn\2025-Jan-CSharpDotNetRevision\LP_UnderstandAspNetCoreFundementals\Publish an ASP.NET Core app\MyWebApp\publish-fd\MyWebApp.pdb
